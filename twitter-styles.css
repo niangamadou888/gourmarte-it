@@ -1,0 +1,32 @@
+#twitter-feed {width:100%; margin:auto; font-family: Arial, Helvetica, sans-serif; padding:0px; border-radius:12px; background-color:#FFF; color:#333; overflow:auto;}
+.twitter-article{ width:100%; border-top:1px dotted #CCC; float:left; padding:8px 0px 8px 0px; }
+.twitter-pic { float:left; padding-right: 10px; }
+.twitter-pic img { float:left; border-radius:7px; border:none; }
+.twitter-text p { margin:0px; line-height:15px;}
+.twitter-text a,h1 a { color: #00acee; text-decoration: none; }
+.twitter-text a:hover,h1 a:hover { text-decoration: underline; color: #00acee; }
+.twitter-text {font-size: 11px; }
+.tweet-time { font-size:10px; color:#878787; float:right; }
+.tweet-time a, .tweet-time a:hover { color:#878787; }
+.tweetprofilelink a { color:#444; }
+.tweetprofilelink a:hover { color:#444; }
+/*
+     FILE ARCHIVED ON 17:01:34 Jan 20, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:51:24 Jun 27, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.721
+  exclusion.robots: 0.154
+  exclusion.robots.policy: 0.142
+  esindex: 0.009
+  cdx.remote: 17.382
+  LoadShardBlock: 72.995 (3)
+  PetaboxLoader3.datanode: 71.687 (5)
+  PetaboxLoader3.resolve: 102.843 (3)
+  load_resource: 125.913 (2)
+*/

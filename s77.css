@@ -1,0 +1,112 @@
+/**
+ * @version		$Id$
+ * @author		JoomlaUX!
+ * @package		Joomla.Site
+ * @subpackage	mod_jux_megamenu
+ * @copyright	Copyright (C) 2008 - 2013 by JoomlaUX. All rights reserved.
+ * @license		http://www.gnu.org/licenses/gpl.html GNU/GPL version 3
+*/
+
+#js-mainnav.megamenu.s77 {background: transparent; /* you can change/delete the transparent gradient image or the background color */}
+#megamenucss #js-mainnav.megamenu .js-megamenu, #megamenucss #js-mainnav.megamenu .js-megamenu .level1 .group, #megamenucss #js-mainnav.megamenu .js-megamenu ul.level1, #megamenucss #js-mainnav.megamenu .js-megamenu ul.level2, #megamenucss #js-mainnav.megamenu .js-megamenu ul.level3 {font-family: 'Open Sans Condensed', sans-serif !important; color:#333 !important; text-transform:uppercase; font-weight:700;}
+#megamenucss #js-mainnav.megamenu ul.level0 li.megacss span.megacss, #megamenucss #js-mainnav.megamenu ul.level0 li.megacss a.megacss {padding:12px 15px 29px 15px !important;}
+#megamenucss #js-mainnav.megamenu ul.level1 li.megacss span.megacss, #megamenucss #js-mainnav.megamenu ul.level1 li.megacss a.megacss {padding:8px 15px !important;}
+#megamenucss #js-mainnav.megamenu.affix {background-color:#fff;}
+
+#js-mainnav.megamenu.s77 #js-megaMenuToggle {
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+
+/* lv - 0
+-----------------------------------*/
+/* Styling ---*/
+#js-mainnav.megamenu.s77 ul.level0 li.megacss span.megacss,
+#js-mainnav.megamenu.s77 ul.level0 li.megacss a.megacss,
+#js-mainnav.megamenu.s77 .megaMenuToggle {
+    color: #fff;
+	padding: 10px 5px 12px 6px;
+}
+
+
+
+#js-mainnav.megamenu.dÃ¨ault ul.level1 li:hover,
+#js-mainnav.megamenu.s77 ul.level1 li.over,
+#js-mainnav.megamenu.s77 ul.level1 li.haschild-over { background-color: #006699; }
+
+
+#js-mainnav.megamenu.s77 ul.level1 li.haschild,
+#js-mainnav.megamenu.s77 ul.level1 li.haschild-over {
+	background-image: url(/web/20190124051405im_/http://gourmarte.it/modules/mod_jux_megamenu/assets/images/arrow.png);
+	background-repeat: no-repeat;
+	background-position: 95% center;
+}
+
+/* CHILD CONTENT
+-----------------------------------*/
+
+#js-mainnav.megamenu.s77 .childcontent-inner {background-color: #fff; /*change here the color to match the new color you have set for mainnav */ color: #333;}
+
+#js-mainnav.megamenu.s77 .childcontent-inner .group ul li.active {
+	background-color: #00527C !important;
+}
+
+#js-mainnav.megamenu.s77 .childcontent .group h3 {
+	background: none;
+	color: #fff;
+}
+
+
+#js-mainnav.megamenu.s77 .childcontent .moduletable { color: #fff; }
+
+#js-mainnav.megamenu.s77 .childcontent .js-moduletable a:hover,
+#js-mainnav.megamenu.s77 .childcontent .js-moduletable a:focus,
+#js-mainnav.megamenu.s77 .childcontent .js-moduletable a:active {
+	color: #fff;
+	text-decoration: none;
+}
+
+#js-mainnav.megamenu.s77 .group-title .menu-title {
+	color: #fff;
+}
+
+#js-mainnav.megamenu.s77 .group-title .menu-desc {
+	color: #999;
+}
+
+/* Left alignment */
+#js-mainnav.megamenu.s77 ul.level0 li.megacss.submenu-align-left > .childcontent {
+	margin-left: 1px!important;
+}
+#megamenucss .s77.megamenu ul.level0 > li.megacss:hover > a.megacss {border-bottom: solid 10px #e74f1d;} 
+#megamenucss #js-mainnav.megamenu.s77 ul.level0 li.active a {border-bottom: solid 10px #e74f1d;}
+#megamenucss .s77 .megamenu .dropdown-menu ul.level1 li.megacss:hover>a.megacss,#megamenucss .s77 .dropdown-menu ul.level1 li.megacss a.megacss:hover{background: #e74f1d!important; color: #ffffff!important;}
+#megamenucss #js-mainnav.s77 .js-megamenu{background: transparent!important;}
+#js-mainnav.megamenu.s77 ul.level0 li.megacss span.megacss,
+#js-mainnav.megamenu.s77 ul.level0 li.megacss a.megacss,
+#js-mainnav.megamenu.s77 .megaMenuToggle {color: #333;	padding: 10px 5px 12px 6px;}
+#megamenucss #js-mainnav.megamenu ul.level0 li.megacss span.menu-title {font-weight:700;}
+#megamenucss #js-mainnav.megamenu.s77 ul.level0 li.active ul.level1 li.active a {border-bottom:2px solid #e74f1d;}
+#megamenucss #js-mainnav.megamenu.s77 ul.level0 li.active ul.level1 a {border-bottom:none;}
+
+/*
+     FILE ARCHIVED ON 05:14:05 Jan 24, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:32:34 Jun 27, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.848
+  exclusion.robots: 0.235
+  exclusion.robots.policy: 0.221
+  esindex: 0.011
+  cdx.remote: 7.707
+  LoadShardBlock: 191.684 (3)
+  PetaboxLoader3.datanode: 167.834 (5)
+  PetaboxLoader3.resolve: 339.959 (3)
+  load_resource: 334.071 (2)
+*/
